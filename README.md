@@ -14,50 +14,35 @@ _Collaborate and work together through GitHub Issues._
 </header>
 
 <!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
 -->
 
-## Welcome
+## Step 1: Creating an Issue
 
-People use GitHub Issues to manage tasks, track progress, and collaborate on various projects. Whether you're following bug fixes, new features, or team task management, GitHub Issues keeps everything on the right track. This GitHub Skills guide will walk you through the basics of GitHub Issues so you can manage your projects more effectively.
+_Welcome to GitHub Issues! :wave:_
 
-- **Who is this for**: Project managers, team members, and GitHub users interested in learning how to use GitHub Issues to track and manage work.
-- **What you'll learn**: How to create and keep issues up to date; how to organize issues with labels, milestones, and assignees; how to track progress with GitHub Issues.
-- **What you'll build**: A simple project board using GitHub Issues to track your work and an effective workflow with clear task assignments.
-- **Prerequisites**: …
-- **How long**: …
+Let's get started by creating an issue.
 
-In this course, you will:
+**What is an Issue?**: An Issue is a task, bug, or feature request that you can follow up on within a project. It's a great way to manage tasks and let your team know what they need to get done.
 
-1. Create an issue
-2. Use labels & milestones
-3. Assign issues
-4. Collaborate on issues
-5. Resolve an issue
-6. Follow best practices
+### :keyboard: Activity: Create an Issue
 
-### How to start this course
+1. Go to the **Issues** tab in your GitHub repository.
+2. On GitHub, navigate to the main page of the repository.
+3. Under your repository name, click **Issues**.
+4. Click **New issue** to create a new issue.
+5. If your repository uses issue templates, click **Get started** next to the type of issue you'd like to open.
+6. If the type of issue you'd like to open isn't included in the available options, click **Open a blank issue**.
+7. In the **Title** field, type a title for your issue—typically one that summarizes the task/problem.
+8. In the comment body field, type a description of your issue. Provide a detailed background that summarizes the issue and necessary information/steps.
+> *You can also assign the issue to someone, add it to a project, associate it with a milestone, set the issue type, and apply a label, but you will learn those later in the skill.*
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'review-pull-requests',
-  owner: '@me',
-  name: 'skills-review-pull-requests',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=issues&owner=%40me&name=bryceshen1-issues&description=My+clone+repository&visibility=public)
-1. Right-click **Start course** and open the link in a new tab.
-2. Most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+9. When you're finished, click **Submit new issue**.
+10. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
